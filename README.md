@@ -120,9 +120,9 @@ Landing → Processing
 
 
 
-## 📸 Dashboard
+## Dashboard
+<img width="1512" height="982" alt="Screenshot 2026-04-01 at 5 52 00 PM" src="https://github.com/user-attachments/assets/ac0c711e-0f03-451b-83f3-4e47da3e5419" />
 
-provided in the Images section
 
 
 ##  Key Learnings

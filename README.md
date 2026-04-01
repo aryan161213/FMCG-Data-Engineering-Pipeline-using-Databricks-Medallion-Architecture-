@@ -48,11 +48,11 @@ The project simulates a real-world FMCG scenario involving:
 
 ###  Medallion Architecture
 
-| Layer  | Description                  |
-| ------ | ---------------------------- |
-| Bronze | Raw data from S3             |
-| Silver | Cleaned and transformed data |
-| Gold   | Aggregated business metrics  |
+| Layer  | Description                    |
+| ------ | -------------------------------|
+| Bronze | Raw data from S3               |
+| Silver | Cleaned and transformed data   |
+| Gold   | Aggregated,business-ready data |
 
 
 ###  Multi-Source Data Consolidation

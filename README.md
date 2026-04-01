@@ -121,7 +121,8 @@ Landing → Processing
 
 
 ## Dashboard
-<img width="1512" height="982" alt="Screenshot 2026-04-01 at 5 53 10 PM" src="https://github.com/user-attachments/assets/e05d4d50-431d-4285-9d09-20d6049c4f5b" />
+
+<img width="1512" height="982" alt="Screenshot 2026-04-01 at 5 54 29 PM" src="https://github.com/user-attachments/assets/f938bae7-22ea-42c8-8200-b397608d8c49" />
 
 
 

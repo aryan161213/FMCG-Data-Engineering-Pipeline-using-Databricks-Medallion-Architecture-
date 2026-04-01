@@ -121,8 +121,8 @@ Landing → Processing
 
 
 ## Dashboard
+![WhatsApp Image 2026-04-01 at 19 44 34](https://github.com/user-attachments/assets/4bab8db4-7897-489c-b48e-fabb1b57be2a)
 
-<img width="1512" height="982" alt="Screenshot 2026-04-01 at 5 54 29 PM" src="https://github.com/user-attachments/assets/f938bae7-22ea-42c8-8200-b397608d8c49" />
 
 
 

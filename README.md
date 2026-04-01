@@ -95,7 +95,7 @@ Landing → Processing
 
 ##  Tech Stack
 
-* Apache Spark (PySpark)
+* PySpark
 * Delta Lake
 * Databricks
 * SQL

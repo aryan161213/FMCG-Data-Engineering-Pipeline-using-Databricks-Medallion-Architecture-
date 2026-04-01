@@ -57,10 +57,10 @@ The project simulates a real-world FMCG scenario involving:
 
 ###  Multi-Source Data Consolidation
 
-* Sports Bar data processed fully **(Bronze → Silver → Gold)**
+* Sports Bar data processed fully (Bronze → Silver → Gold)
 * Atlikon parent data already available at Gold layer
 * Final step:
-   Merged child data into parent Gold table
+   **Merged child data into parent Gold table**
 
 
 ###  Aggregation & Analytics
@@ -75,12 +75,8 @@ The project simulates a real-world FMCG scenario involving:
 
 ###  Denormalized Data Model
 
-* Created optimized fact table for analytics
-* Joined:
-
-  * Orders
-  * Customers
-  * Products
+* **Reduced query-time complexity** by creating a denormalized view with all relevant columns
+* Enabled efficient dashboarding and faster analytics
 
 
 ###  File Lifecycle Management
@@ -92,7 +88,7 @@ Landing → Processing → Archived
 ```
 
 * Used `dbutils.fs.mv()` to move processed files
-* Prevented duplicate processing
+* Prevented duplicate processing using MERGE-based upsert logic to ensure only new and updated records are written.
 
 
 ##  Tech Stack
@@ -107,7 +103,7 @@ Landing → Processing → Archived
 ##  Dashboard Insights
 
 * Total Revenue & Quantity
-* AOV trends
+* Average order value trends
 * Top 10 Products
 * Bottom 10 Products
 * Revenue by Channel
@@ -130,7 +126,7 @@ provided in the Images section
 * Delta Lake merge operations
 * Data modeling (Fact & Dimension)
 * Medallion architecture
-* Real-world ETL pipeline implementation
+* Real world ETL pipeline implementation
 
 
 ##  Author

@@ -113,8 +113,11 @@ Landing → Processing
 
 
 ## Architecture Diagram
+<img width="20005" height="11129" alt="projectarchitecture" src="https://github.com/user-attachments/assets/98d295c1-435b-48b1-934a-26b46cc6b960" />
 
-provided in the Images section
+
+
+
 
 
 ## 📸 Dashboard

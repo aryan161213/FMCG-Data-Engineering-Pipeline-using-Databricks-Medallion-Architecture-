@@ -1,7 +1,7 @@
 #  FMCG Data Engineering Pipeline (Databricks | Delta Lake | S3)
 ## Overview
 
-Built an end-to-end data engineering pipeline using **Databricks, PySpark, Delta Lake, and AWS S3**, implementing the **Medallion Architecture (Bronze → Silver → Gold)** with **incremental processing, MERGE-based upserts and regex-based data cleaning, and a BI-ready **Star Schema** for multi-source data consolidation**
+Built an end-to-end data engineering pipeline using **Databricks, PySpark, Delta Lake, and AWS S3**, implementing the **Medallion Architecture (Bronze → Silver → Gold)** with **incremental processing, MERGE-based upserts** and **regex-based data cleaning**, and a **BI-ready Star Schema** for **multi-source data consolidation**
 
 The project simulates a real-world FMCG scenario involving:
 
